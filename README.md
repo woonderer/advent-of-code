@@ -9,10 +9,11 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(8/50)
+## Progress ⭐(10/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
 | [🎄 Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2) | ⭐⭐ | [🎯 Day 2](2022/day2/) | 10798 / 8224 |
 | [🎄 Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3) | ⭐⭐ | [🎯 Day 3](2022/day3/) | 9588 / 8627 |
 | [🎄 Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4) | ⭐⭐ | [🎯 Day 4](2022/day4/) | 12514 / 11189 |
+| [🎄 Day 5: Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐⭐ | [🎯 Day 5](2022/day5/) | 6348 / 6057 |
