@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(14/50)
+## Progress ⭐(16/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
@@ -19,3 +19,4 @@ dayN/
 | [🎄 Day 5: Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐⭐ | [🎯 Day 5](2022/day5/) | 6348 / 6057 |
 | [🎄 Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐⭐ | [🎯 Day 6](2022/day6/) | 4268 / 8033 |
 | [🎄 Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐⭐ | [🎯 Day 7](2022/day7/) | 14083 / 30623 |
+| [🎄 Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐⭐ | [🎯 Day 8](2022/day8/) | 10127 / 7533 |
