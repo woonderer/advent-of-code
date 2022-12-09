@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(16/50)
+## Progress ⭐(18/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
