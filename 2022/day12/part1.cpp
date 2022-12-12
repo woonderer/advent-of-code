@@ -40,10 +40,14 @@ int main()
         if (ans[cur.first][cur.second] != 0) continue;
         ans[cur.first][cur.second] = ile;
 
-        if (cur.first - 1 >= 1 && ans[cur.first - 1][cur.second] == 0 && g[cur.first - 1][cur.second] <= g[cur.first][cur.second] + 1) q.push({{cur.first - 1, cur.second}, ile + 1});
-        if (cur.first + 1 <= 159 && ans[cur.first + 1][cur.second] == 0 && g[cur.first + 1][cur.second] <= g[cur.first][cur.second] + 1) q.push({{cur.first + 1, cur.second}, ile + 1});
-        if (cur.second - 1 >= 1 && ans[cur.first][cur.second - 1] == 0 && g[cur.first][cur.second - 1] <= g[cur.first][cur.second] + 1) q.push({{cur.first, cur.second - 1}, ile + 1});
-        if (cur.second + 1 <= 159 && ans[cur.first][cur.second + 1] == 0 && g[cur.first][cur.second + 1] <= g[cur.first][cur.second] + 1) q.push({{cur.first, cur.second + 1}, ile + 1});
+        if (cur.first - 1 >= 1 && ans[cur.first - 1][cur.second] == 0 && g[cur.first - 1][cur.second] <= g[cur.first][cur.second] + 1) 
+                q.push({{cur.first - 1, cur.second}, ile + 1});
+        if (cur.first + 1 <= 159 && ans[cur.first + 1][cur.second] == 0 && g[cur.first + 1][cur.second] <= g[cur.first][cur.second] + 1) 
+                q.push({{cur.first + 1, cur.second}, ile + 1});
+        if (cur.second - 1 >= 1 && ans[cur.first][cur.second - 1] == 0 && g[cur.first][cur.second - 1] <= g[cur.first][cur.second] + 1) 
+                q.push({{cur.first, cur.second - 1}, ile + 1});
+        if (cur.second + 1 <= 159 && ans[cur.first][cur.second + 1] == 0 && g[cur.first][cur.second + 1] <= g[cur.first][cur.second] + 1) 
+                q.push({{cur.first, cur.second + 1}, ile + 1});
     }
     cout << ans[e.first][e.second] << '\n';
 }
