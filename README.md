@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(24/50)
+## Progress ⭐(26/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
@@ -24,3 +24,4 @@ dayN/
 | [🎄 Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐⭐ | [🎯 Day 10](2022/day10/) | 4859 / 3606 |
 | [🎄 Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | ⭐⭐ | [🎯 Day 11](2022/day11/) | 3038 / 2745 |
 | [🎄 Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | ⭐⭐ | [🎯 Day 12](2022/day12/) | 2241 / 2903 |
+| [🎄 Day 13: Hill Climbing Algorithm](https://adventofcode.com/2022/day/13) | ⭐⭐ | 👿🐍👿 | 7410 / 7365 |
