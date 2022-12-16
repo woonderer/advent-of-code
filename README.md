@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(30/50)
+## Progress ⭐(32/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
@@ -27,3 +27,4 @@ dayN/
 | [🎄 Day 13: Distress Signal](https://adventofcode.com/2022/day/13) | ⭐⭐ | 👿🐍👿 | 7410 / 7365 |
 | [🎄 Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14) | ⭐⭐ | [🎯 Day 14](2022/day14/) | 18202 / 17214 |
 | [🎄 Day 15: Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | ⭐⭐ | [🎯 Day 15](2022/day15/) | 2359 / 2080 |
+| [🎄 Day 16: Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | ⭐⭐ | [🎯 Day 16](2022/day16/) | 2318 / 3378 |
