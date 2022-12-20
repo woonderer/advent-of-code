@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(38/50)
+## Progress ⭐(40/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
@@ -31,3 +31,4 @@ dayN/
 | [🎄 Day 17: Pyroclastic Flow](https://adventofcode.com/2022/day/17) | ⭐⭐ | [🎯 Day 17](2022/day17/) | 1008 / 4438 |
 | [🎄 Day 18: Boiling Boulders](https://adventofcode.com/2022/day/18) | ⭐⭐ | [🎯 Day 18](2022/day18/) | 7219 / 5098 |
 | [🎄 Day 19: Not Enough Minerals](https://adventofcode.com/2022/day/19) | ⭐⭐ | [🎯 Day 19](2022/day19/) | 2716 / 2046 |
+| [🎄 Day 20: Grove Positioning System](https://adventofcode.com/2022/day/20) | ⭐⭐ | [🎯 Day 20](2022/day20/) | 6111 / 6196 |
