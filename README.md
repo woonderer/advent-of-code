@@ -24,7 +24,7 @@ dayN/
 | [🎄 Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐⭐ | [🎯 Day 10](2022/day10/) | 4859 / 3606 |
 | [🎄 Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | ⭐⭐ | [🎯 Day 11](2022/day11/) | 3038 / 2745 |
 | [🎄 Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | ⭐⭐ | [🎯 Day 12](2022/day12/) | 2241 / 2903 |
-| [🎄 Day 13: Distress Signal](https://adventofcode.com/2022/day/13) | ⭐⭐ | 👿🐍👿 | 7410 / 7365 |
+| [🎄 Day 13: Distress Signal](https://adventofcode.com/2022/day/13) | ⭐⭐ | [🎯 Day 13](2022/day13/) | 7410 / 7365 |
 | [🎄 Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14) | ⭐⭐ | [🎯 Day 14](2022/day14/) | 18202 / 17214 |
 | [🎄 Day 15: Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | ⭐⭐ | [🎯 Day 15](2022/day15/) | 2359 / 2080 |
 | [🎄 Day 16: Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | ⭐⭐ | [🎯 Day 16](2022/day16/) | 2318 / 3378 |
