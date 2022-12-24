@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(46/50)
+## Progress ⭐(48/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [🎯 Day 1](2022/day1/)   | 16296 / 15756 |
@@ -35,3 +35,4 @@ dayN/
 | [🎄 Day 21: Monkey Math](https://adventofcode.com/2022/day/21) | ⭐⭐ | [🎯 Day 21](2022/day21/) | 3771 / 2740 |
 | [🎄 Day 22: Monkey Map](https://adventofcode.com/2022/day/22) | ⭐⭐ | [🎯 Day 22](2022/day22/) | 9743 / 6286 |
 | [🎄 Day 23: Unstable Diffusion](https://adventofcode.com/2022/day/23) | ⭐⭐ | [🎯 Day 23](2022/day23/) | 5590 / 5377 |
+| [🎄 Day 24: Blizzard Basin](https://adventofcode.com/2022/day/24) | ⭐⭐ | [🎯 Day 24](2022/day24/) | 3803 / 3629 |
