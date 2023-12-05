@@ -6,6 +6,8 @@ seeds = list(map(int, f[0].split()[1:]))
 mapping = [[list(map(int, line.split())) for line in f[i].split('\n')[1:]] for i in range(1, 8)]
 ranges = [[seeds[i], seeds[i] + seeds[i + 1] - 1] for i in range(0, len(seeds), 2)]
 
+# Rank 5716 btw 💀💀💀
+# POV: Kolos z rekurencji
 def solve(start, end, idx = 0):
     if idx == 7:
         return start
