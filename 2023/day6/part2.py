@@ -5,7 +5,4 @@ with open(os.path.dirname(__file__) + "/input.in") as file:
 time = int(''.join(f[0].split()[1:]))
 dist = int(''.join(f[1].split()[1:]))
 
-i, j = 1, time - 1
-while (time - i) * i <= dist: i += 1
-while (time - j) * j <= dist: j -= 1
-print(j - i + 1)
+print(math.floor((time + math.sqrt(time * time - 4 * dist)) / 2) - math.ceil((time - math.sqrt(time * time - 4 * dist)) / 2) + 1)
