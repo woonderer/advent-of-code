@@ -1,4 +1,4 @@
-import os, collections, math
+import os, math, functools
 with open(os.path.dirname(__file__) + "\\input.in") as file:
     f = file.read().strip().split('\n')
 
@@ -18,7 +18,4 @@ for s in cur:
         idx = (idx + 1) % len(moves)
     tab.append(cnt)
 
-lcm = math.lcm(tab[0], tab[1])
-for i in range(2, len(tab)): 
-    lcm = math.lcm(lcm, tab[i]) 
-print(lcm)
+print(functools.reduce(lambda a, b: math.lcm(a, b), tab))
