@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(16/50)
+## Progress ⭐(18/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐⭐ | [🎯 Day 1](2023/day1/)   | 7600 / 2852 |
@@ -20,3 +20,4 @@ dayN/
 | [🎄 Day 6: Wait For It](https://adventofcode.com/2023/day/6) | ⭐⭐ | [🎯 Day 6](2023/day6/)   | 1485 / 1758 |
 | [🎄 Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | ⭐⭐ | [🎯 Day 7](2023/day7/)   | 55512 / 49513 |
 | [🎄 Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐⭐ | [🎯 Day 8](2023/day8/)   | 1395 / 23515 |
+| [🎄 Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐⭐ | [🎯 Day 9](2023/day9/)   | 16070 / 15218 |
