@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(20/50)
+## Progress ⭐(22/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐⭐ | [🎯 Day 1](2023/day1/)   | 7600 / 2852 |
@@ -22,3 +22,4 @@ dayN/
 | [🎄 Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐⭐ | [🎯 Day 8](2023/day8/)   | 1395 / 23515 |
 | [🎄 Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐⭐ | [🎯 Day 9](2023/day9/)   | 16070 / 15218 |
 | [🎄 Day 10: Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐⭐ | [🎯 Day 10](2023/day10/)   | 6232 / 4340 |
+| [🎄 Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) | ⭐⭐ | [🎯 Day 11](2023/day11/)   | 2586 / 2792 |
