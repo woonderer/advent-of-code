@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(28/50)
+## Progress ⭐(30/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐⭐ | [🎯 Day 1](2023/day1/)   | 7600 / 2852 |
@@ -26,3 +26,4 @@ dayN/
 | [🎄 Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | ⭐⭐ | [🎯 Day 12](2023/day12/)   | 2230 / 1590 |
 | [🎄 Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | ⭐⭐ | [🎯 Day 13](2023/day13/)   | 7661 / 5879 |
 | [🎄 Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | ⭐⭐ | [🎯 Day 14](2023/day14/)   | 13362 / 8318 |
+| [🎄 Day 15: Lens Library](https://adventofcode.com/2023/day/15) | ⭐⭐ | [🎯 Day 15](2023/day15/)   | 22048 / 18693 |
