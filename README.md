@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(30/50)
+## Progress ⭐(32/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐⭐ | [🎯 Day 1](2023/day1/)   | 7600 / 2852 |
