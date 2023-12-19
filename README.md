@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(36/50)
+## Progress ⭐(38/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐⭐ | [🎯 Day 1](2023/day1/)   | 7600 / 2852 |
@@ -30,3 +30,4 @@ dayN/
 | [🎄 Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | ⭐⭐ | [🎯 Day 16](2023/day16/)   | 207 / 219 |
 | [🎄 Day 17: Clumsy Crucible](https://adventofcode.com/2023/day/17) | ⭐⭐ | [🎯 Day 17](2023/day17/)   | 8711 / 7768 |
 | [🎄 Day 18: Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | ⭐⭐ | [🎯 Day 18](2023/day18/)   | 11377 / 6798 |
+| [🎄 Day 19: Aplenty](https://adventofcode.com/2023/day/19) | ⭐⭐ | [🎯 Day 19](2023/day19/)   | 6566 / 8397 |
